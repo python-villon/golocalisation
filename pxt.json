@@ -1,0 +1,28 @@
+{
+    "name": "golocalisation",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "SN01": "github:XinaBox/pxt-SN01#2c9728dfed1895dbefa444ef2256ab1f3c327dd6",
+        "IM01": "github:xinabox/pxt-IM01#v0.1.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
